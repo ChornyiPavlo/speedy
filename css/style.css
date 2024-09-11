@@ -766,6 +766,10 @@ nav ul li:hover a {
     white-space: normal;
     width: 50%;
   }
+
+  .w-75 {
+    width: 75%;
+  }
 }
 
 .navbar-nav .nav-item a {
